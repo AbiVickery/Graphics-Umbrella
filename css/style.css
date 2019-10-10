@@ -1,11 +1,13 @@
 body {
-    font-family: 'Poiret One', cursive;
+    font-family: Armata;
     background-repeat: no-repeat;
 }
 #titleA {
+    font-family: 'Poiret One', cursive;
     color: darkolivegreen;
 }
 #titleB {
+    font-family: 'Poiret One', cursive;
     color: darkslategray;
 }
 
