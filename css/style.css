@@ -2,3 +2,9 @@ body {
     font-family: 'Poiret One', cursive;
     background-repeat: no-repeat;
 }
+#titleA {
+    color: darkolivegreen;
+}
+#titleB {
+    color: darkslategray;
+}
